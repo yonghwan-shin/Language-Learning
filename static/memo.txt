@@ -1,1 +1,3 @@
 Build website locally: hugo server --buildDrafts --disableFastRender
+
+Make new post: hugo new content/about/_index.md
